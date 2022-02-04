@@ -5,7 +5,7 @@
 
 Datos a tener en cuenta:
 
-* *El repositorio esta en el repositorio local de XAMPP.*
+* *El repositorio esta en el servidor local de XAMPP.*
 
 * *Este documento se actualizará en el futuro.*
 
