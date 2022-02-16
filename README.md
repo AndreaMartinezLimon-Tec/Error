@@ -19,7 +19,8 @@ Datos a tener en cuenta:
 #### Contenido de la carpeta Parcial1.
 | Nombre | Descripción |
 | ------- | --------- |
-|**_ModeloCaja_**| _Investigación sobre el modelo de caja HTML._ |
+|**_ModeloCaja_**| _Investigación sobre el modelo de caja HTML._ | 
+|**_Tarea tablas_**| _Carpeta con la tarea "Tabla Html", incluye el archivo TareaTablas.html y su hoja de estilos._ |
 
 *Por el momento eso sería todo y si leiste esto
 toma esta galleta ->* 🍪
