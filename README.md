@@ -20,7 +20,9 @@ Datos a tener en cuenta:
 | Nombre | Descripción |
 | ------- | --------- |
 |**_ModeloCaja_**| _Investigación sobre el modelo de caja HTML._ | 
-|**_Tarea tablas_**| _Carpeta con la tarea "Tabla Html", incluye el archivo TareaTablas.html y su hoja de estilos._ |
+|**_Tarea tablas_**| _Carpeta con la tarea "Tabla Html", incluye el archivo TareaTablas.html y su hoja de estilos._|
+|**_HistorialResponsivo_**| _Tabla responsiva que que se adapta al reducir el ancho del navegador._ |
+|**_MenúAcordeón_**| _Menú tipo acordeón._ |
 
 *Por el momento eso sería todo y si leiste esto
 toma esta galleta ->* 🍪
