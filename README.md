@@ -19,10 +19,10 @@ Datos a tener en cuenta:
 #### Contenido de la carpeta Parcial1.
 | Nombre | Descripción |
 | ------- | --------- |
-|**_ModeloCaja_**| _Investigación sobre el modelo de caja HTML._ | 
+|**_ModeloCaja_**| _Carpeta que contiene la investigación sobre el modelo de caja HTML._ | 
 |**_Tarea tablas_**| _Carpeta con la tarea "Tabla Html", incluye el archivo TareaTablas.html y su hoja de estilos._|
-|**_HistorialResponsivo_**| _Tabla responsiva que que se adapta al reducir el ancho del navegador._ |
-|**_MenúAcordeón_**| _Menú tipo acordeón._ |
+|**_HistorialResponsivo_**| _Tabla responsiva que que se adapta al reducir el ancho del navegador (contieje también su hoja de estilos)._ |
+|**_MenúAcordeón_**| _Menú tipo acordeón con su hoja de estilos._ |
 
 *Por el momento eso sería todo y si leiste esto
 toma esta galleta ->* 🍪
